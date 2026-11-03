@@ -1,0 +1,9 @@
+# VSCode uporabniške nastavitve
+.vscode/
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.log
+*.tex
